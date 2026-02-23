@@ -16,3 +16,11 @@ Hybrid methodology for managing AI-driven products integrating data science and 
 Text-based sentiment analysis of Google Maps reviews to evaluate restaurant quality and value for money around McGill University using natural language processing.
 
 ➡️ [View Project](https://github.com/mariajosebeletanga/restaurant-sentiment-analysis-nlp)
+
+
+
+### 🔹 Restaurant Sentiment Analysis (NLP)
+Text-based sentiment analysis of Google Maps reviews to evaluate restaurant quality and value for money around McGill University using natural language processing.
+
+➡️ [View Project](https://github.com/mariajosebeletanga/restaurant-sentiment-analysis-nlp)
+https://github.com/mariajosebeletanga/cnn-transfer-learning-image-classification/tree/main
