@@ -19,8 +19,8 @@ Text-based sentiment analysis of Google Maps reviews to evaluate restaurant qual
 
 
 
-### 🔹 Restaurant Sentiment Analysis (NLP)
-Text-based sentiment analysis of Google Maps reviews to evaluate restaurant quality and value for money around McGill University using natural language processing.
+### 🔹 CNN vs ResNet Transfer Learning for Image Classification (Deep Learning)
+Deep learning project comparing a custom convolutional neural network (CNN) trained from scratch with a pretrained ResNet model using transfer learning for image classification.
 
-➡️ [View Project](https://github.com/mariajosebeletanga/restaurant-sentiment-analysis-nlp)
-https://github.com/mariajosebeletanga/cnn-transfer-learning-image-classification/tree/main
+➡️ [View Project](https://github.com/mariajosebeletanga/cnn-transfer-learning-image-classification/tree/main)
+
