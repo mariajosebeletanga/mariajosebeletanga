@@ -1,4 +1,4 @@
-# Maria Beletanga  
+# Maria Jose Beletanga Calderon  
 
 Master of Management in Analytics (McGill University)  
 Economics | Project Management | Data Analytics & AI  
